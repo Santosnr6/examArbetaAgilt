@@ -47,7 +47,7 @@ Efter er Sprint Review samlas ni i ett mötesrum och diskuterar den gångna spri
 * Det skall finnas en Profil-sida
 * Det skall finnas en Logga In / Registreringssida
 * Ni behöver läsa in produkterna från ett API
-* Ni behöver implementera en varukorgens funktionalitet
+* Ni behöver implementera varukorgens funktionalitet
 * Ni behöver generera unika ordernummer för varje order
 * Ni behöver spara inloggade kunders orderhistorik
 * Ni behöver implementera en Lazy Loader vid API-anrop (lägg gärna på en medveten fördröjning så att denna syns) 
