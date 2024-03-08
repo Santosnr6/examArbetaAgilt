@@ -3,7 +3,7 @@
 # Team Project - Arbeta Agilt
 
 ## Airbean
-Ni har anlitats av den världsberömda cafékedjan Airbeans, som är mest kända för sitt innovativa sätt att leverera kaffe på, för att utveckla deras nya applikation från grunden.
+Ni har anlitats av den världsberömda cafékedjan Airbean, som är mest kända för sitt innovativa sätt att leverera kaffe på, för att utveckla deras nya applikation från grunden.
 
 ## Instruktioner
 
