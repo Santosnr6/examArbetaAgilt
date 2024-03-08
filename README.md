@@ -33,7 +33,7 @@ Under ert första Sprint Planning så skall ni inom teamet skapa user stories (m
 Dessa möten skall hållas varje tisdag, onsdag och torsdag, de får pågå i max 15 minuter, inte visa någon kod.
 
 #### Sprint Review
-Inför varje fredag kommer ni att kunna boka in en tid med mig under förmiddagen där ni helt enkelt får 10 minuter på er att presentera vad ni åstadkommit. Detta skall vara ett väldigt formellt möte och ni behöver inte läsa någon power point etc. Ni förväntas demonstrera ert inkrement. Ni kan boka in er Sprint Review [genom att klicka här](https://docs.google.com/document/d/1H_Pjm0BVmw7EPng_f3PCmG-zmxDvCf9rSttRFnD-cYY/edit?usp=sharing).
+Inför varje fredag kommer ni att kunna boka in en tid med mig under förmiddagen där ni helt enkelt får 15 minuter på er att presentera vad ni åstadkommit. Detta skall vara ett väldigt formellt möte och ni behöver inte läsa någon power point etc. Ni förväntas demonstrera ert inkrement. Ni kan boka in er Sprint Review [genom att klicka här](https://docs.google.com/document/d/1H_Pjm0BVmw7EPng_f3PCmG-zmxDvCf9rSttRFnD-cYY/edit?usp=sharing).
 
 #### Sprint Retrospective
 Efter er Sprint Review samlas ni i ett mötesrum och diskuterar den gångna sprinten.
@@ -42,7 +42,7 @@ Efter er Sprint Review samlas ni i ett mötesrum och diskuterar den gångna spri
 * Det skall finnas en Landnings-sida
 * Det skall finnas en Produkt-sida
 * Det skall finnas en Om Oss-sida
-* Det skall finnas en sida för Order-sida
+* Det skall finnas en Order-sida
 * Det skall finnas en Status-sida (se mockup)
 * Det skall finnas en Profil-sida
 * Det skall finnas en Logga In / Registreringssida
